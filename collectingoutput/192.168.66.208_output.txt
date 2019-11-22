@@ -1,0 +1,230 @@
+-------------------------
+Device ID: R2.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.202
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/3
+Holdtime : 176 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.202
+
+-------------------------
+Device ID: R3.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.203
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet1/3
+Holdtime : 125 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.203
+
+-------------------------
+Device ID: R1.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.201
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/3
+Holdtime : 140 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.201
+
+-------------------------
+Device ID: R6.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.206
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/3
+Holdtime : 127 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.206
+
+-------------------------
+Device ID: R7.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.207
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet1/3
+Holdtime : 133 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.207
+
+-------------------------
+Device ID: R4.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.204
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/3
+Holdtime : 156 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.204
+
+-------------------------
+Device ID: R5.htulshan.com
+Entry address(es): 
+  IP address: 155.1.58.5
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/0,  Port ID (outgoing port): Ethernet0/2
+Holdtime : 143 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 155.1.58.5
+
+-------------------------
+Device ID: R5.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.205
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet1/3
+Holdtime : 131 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.205
+
+-------------------------
+Device ID: R9.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.209
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/3
+Holdtime : 140 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.209
+
+-------------------------
+Device ID: R10.htulshan.com
+Entry address(es): 
+  IP address: 155.1.108.10
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/1,  Port ID (outgoing port): Ethernet0/0
+Holdtime : 130 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 155.1.108.10
+
+-------------------------
+Device ID: R10.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.210
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/3
+Holdtime : 135 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.210
+
+-------------------------
+Device ID: ISP.htulshan.com
+Entry address(es): 
+  IP address: 192.168.66.211
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet1/3
+Holdtime : 132 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 192.168.66.211
+
+
+Total cdp entries displayed : 12

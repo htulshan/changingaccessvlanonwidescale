@@ -1,0 +1,6 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+R9(config)#interface FastEthernet0/0
+R9(config-if)# description S3.htulshan.com_Ethernet1/0
+R9(config-if)#end
+R9#

@@ -1,0 +1,3 @@
+
+ interface FastEthernet0/0
+ description S5.htulshan.com_Ethernet1/1

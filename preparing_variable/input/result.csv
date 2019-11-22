@@ -1,0 +1,10 @@
+ip,username,password,secret,device_type,filename
+10.21.2.3,admin,cisco,Not Required,cisco_ios_telnet,10.21.2.3_output
+10.21.2.4,admin,cisco,Not Required,cisco_ios_telnet,10.21.2.4_output
+10.21.2.5,admin,cisco,Not Required,cisco_ios_telnet,10.21.2.5_output
+10.21.2.6,admin,cisco,Not Required,cisco_ios_telnet,10.21.2.6_output
+10.21.2.7,admin,cisco,Not Required,cisco_ios_telnet,10.21.2.7_output
+10.21.2.8,admin,cisco,Not Required,cisco_ios,10.21.2.8_output
+10.21.2.9,admin,cisco,Not Required,cisco_ios,10.21.2.9_output
+10.21.2.10,admin,cisco,Not Required,cisco_ios,10.21.2.10_output
+10.21.2.11,admin,cisco,Not Required,cisco_ios,10.21.2.11_output

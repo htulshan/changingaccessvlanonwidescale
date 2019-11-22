@@ -1,0 +1,105 @@
+-------------------------
+Device ID: S3.htulshan.com
+Entry address(es): 
+  IP address: 10.21.2.3
+Platform: Linux Unix,  Capabilities: Switch IGMP 
+Interface: Ethernet0/3,  Port ID (outgoing port): Ethernet0/0
+Holdtime : 142 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUXL2-ADVIPSERVICESK9-M), Version 15.2(CML_NIGHTLY_20151103)FLO_DSGS7, EARLY DEPLOYMENT DEVELOPMENT BUILD, synced to  FLO_DSGS7_POSTCOLLAPSE_TEAM_TRACK_DSGS_PI5
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 04-Nov-15 02:31 by mmen
+
+advertisement version: 2
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: half
+Management address(es): 
+  IP address: 10.21.2.3
+
+-------------------------
+Device ID: S6.htulshan.com
+Entry address(es): 
+  IP address: 10.21.2.6
+Platform: Linux Unix,  Capabilities: Switch IGMP 
+Interface: Ethernet0/1,  Port ID (outgoing port): Ethernet0/0
+Holdtime : 173 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUXL2-ADVIPSERVICESK9-M), Version 15.2(CML_NIGHTLY_20151103)FLO_DSGS7, EARLY DEPLOYMENT DEVELOPMENT BUILD, synced to  FLO_DSGS7_POSTCOLLAPSE_TEAM_TRACK_DSGS_PI5
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 04-Nov-15 02:31 by mmen
+
+advertisement version: 2
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: half
+Management address(es): 
+  IP address: 10.21.2.6
+
+-------------------------
+Device ID: S5.htulshan.com
+Entry address(es): 
+  IP address: 10.21.2.5
+Platform: Linux Unix,  Capabilities: Switch IGMP 
+Interface: Ethernet0/2,  Port ID (outgoing port): Ethernet0/0
+Holdtime : 170 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUXL2-ADVIPSERVICESK9-M), Version 15.2(CML_NIGHTLY_20151103)FLO_DSGS7, EARLY DEPLOYMENT DEVELOPMENT BUILD, synced to  FLO_DSGS7_POSTCOLLAPSE_TEAM_TRACK_DSGS_PI5
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 04-Nov-15 02:31 by mmen
+
+advertisement version: 2
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: half
+Management address(es): 
+  IP address: 10.21.2.5
+
+-------------------------
+Device ID: S4.htulshan.com
+Entry address(es): 
+  IP address: 10.21.2.4
+Platform: Linux Unix,  Capabilities: Switch IGMP 
+Interface: Ethernet1/0,  Port ID (outgoing port): Ethernet0/0
+Holdtime : 125 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUXL2-ADVIPSERVICESK9-M), Version 15.2(CML_NIGHTLY_20151103)FLO_DSGS7, EARLY DEPLOYMENT DEVELOPMENT BUILD, synced to  FLO_DSGS7_POSTCOLLAPSE_TEAM_TRACK_DSGS_PI5
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 04-Nov-15 02:31 by mmen
+
+advertisement version: 2
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: half
+Management address(es): 
+  IP address: 10.21.2.4
+
+-------------------------
+Device ID: CE.htulshan.com
+Entry address(es): 
+  IP address: 10.21.2.2
+Platform: Linux Unix,  Capabilities: Router Source-Route-Bridge 
+Interface: Ethernet0/0,  Port ID (outgoing port): Ethernet0/1
+Holdtime : 133 sec
+
+Version :
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.5(2)T, DEVELOPMENT TEST SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Thu 26-Mar-15 07:36 by prod_rel_team
+
+advertisement version: 2
+Duplex: half
+Management address(es): 
+  IP address: 10.21.2.2
+
+
+Total cdp entries displayed : 5

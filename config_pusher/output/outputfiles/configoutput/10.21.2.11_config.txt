@@ -1,0 +1,6 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+R11(config)#interface FastEthernet0/0
+R11(config-if)# description S5.htulshan.com_Ethernet1/1
+R11(config-if)#end
+R11#

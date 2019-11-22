@@ -1,0 +1,16 @@
+variables:
+- deviceid: S7.htulshan.com
+  localint: Ethernet0/0
+  remoteint: Ethernet0/3
+- deviceid: S6.htulshan.com
+  localint: Ethernet0/1
+  remoteint: Ethernet0/2
+- deviceid: S5.htulshan.com
+  localint: Ethernet0/3
+  remoteint: Ethernet0/2
+- deviceid: S4.htulshan.com
+  localint: Ethernet0/2
+  remoteint: Ethernet0/2
+- deviceid: R9.htulshan.com
+  localint: Ethernet1/0
+  remoteint: FastEthernet0/0

@@ -1,0 +1,12 @@
+device_type,ip,username,password,secret
+cisco_ios,192.168.66.201,admin,cisco,
+cisco_ios,192.168.66.202,admin,cisco,
+cisco_ios,192.168.66.203,admin,cisco,
+cisco_ios,192.168.66.204,admin,cisco,
+cisco_ios,192.168.66.205,admin,cisco,
+cisco_ios,192.168.66.206,admin,cisco,
+cisco_ios,192.168.66.207,admin,cisco,
+,192.168.66.208,admin,cisco,
+,192.168.66.209,admin,cisco,
+,192.168.66.210,admin,cisco,
+,192.168.66.211,admin,cisco,

@@ -1,0 +1,18 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+S7(config)#interface Ethernet0/3
+S7(config-if)# description S3.htulshan.com_Ethernet0/0
+S7(config-if)#
+S7(config-if)# interface Ethernet0/1
+S7(config-if)# description S6.htulshan.com_Ethernet0/0
+S7(config-if)#
+S7(config-if)# interface Ethernet0/2
+S7(config-if)# description S5.htulshan.com_Ethernet0/0
+S7(config-if)#
+S7(config-if)# interface Ethernet1/0
+S7(config-if)# description S4.htulshan.com_Ethernet0/0
+S7(config-if)#
+S7(config-if)# interface Ethernet0/0
+S7(config-if)# description CE.htulshan.com_Ethernet0/1
+S7(config-if)#end
+S7#

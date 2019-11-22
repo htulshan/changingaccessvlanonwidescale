@@ -1,0 +1,10 @@
+"ip","username","password","secret","device_type","filename","filecreated"
+"10.21.2.3","admin","cisco","Not Required","cisco_ios_telnet","10.21.2.3_variable.yaml",True
+"10.21.2.4","admin","cisco","Not Required","cisco_ios_telnet","10.21.2.4_variable.yaml",True
+"10.21.2.5","admin","cisco","Not Required","cisco_ios_telnet","10.21.2.5_variable.yaml",True
+"10.21.2.6","admin","cisco","Not Required","cisco_ios_telnet","10.21.2.6_variable.yaml",True
+"10.21.2.7","admin","cisco","Not Required","cisco_ios_telnet","10.21.2.7_variable.yaml",True
+"10.21.2.8","admin","cisco","Not Required","cisco_ios","10.21.2.8_variable.yaml",True
+"10.21.2.9","admin","cisco","Not Required","cisco_ios","10.21.2.9_variable.yaml",True
+"10.21.2.10","admin","cisco","Not Required","cisco_ios","10.21.2.10_variable.yaml",True
+"10.21.2.11","admin","cisco","Not Required","cisco_ios","10.21.2.11_variable.yaml",True

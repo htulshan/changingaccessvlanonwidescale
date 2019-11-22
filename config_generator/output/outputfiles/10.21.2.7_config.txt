@@ -1,0 +1,15 @@
+
+ interface Ethernet0/3
+ description S3.htulshan.com_Ethernet0/0
+
+ interface Ethernet0/1
+ description S6.htulshan.com_Ethernet0/0
+
+ interface Ethernet0/2
+ description S5.htulshan.com_Ethernet0/0
+
+ interface Ethernet1/0
+ description S4.htulshan.com_Ethernet0/0
+
+ interface Ethernet0/0
+ description CE.htulshan.com_Ethernet0/1

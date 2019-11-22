@@ -1,0 +1,4 @@
+show interface description
+Interface                      Status         Protocol Description
+Fa0/0                          up             up       
+Fa0/1                          admin down     down     
