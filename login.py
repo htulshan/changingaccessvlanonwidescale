@@ -62,7 +62,7 @@ class Login():
 		logindata = []
 		loginresult = []
 
-		with open('inputdata.csv') as f:
+		with open('logindata.csv') as f:
 			logindata = list(csv.DictReader(f))
 
 		print('=='*20)
@@ -70,7 +70,7 @@ class Login():
 		print('=='*20)
 		password = getpass("Enter the password: ")
 		print('=='*20)
-		secret = getpass("Enter the enable password if any")
+		secret = getpass("Enter the enable password if any: ")
 
 		#trying to login into SSH enaled devices.
 		print('=='*20)

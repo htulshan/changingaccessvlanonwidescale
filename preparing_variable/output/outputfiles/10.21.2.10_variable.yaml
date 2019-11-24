@@ -1,4 +1,0 @@
-variables:
-- deviceid: S4.htulshan.com
-  localint: FastEthernet0/0
-  remoteint: Ethernet1/0
