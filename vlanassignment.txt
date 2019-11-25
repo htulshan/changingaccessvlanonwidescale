@@ -1,0 +1,4 @@
+{% for interface in variables %}
+ interface {{interface.port}}
+ switchport access vlan {{interface.vlan}}
+{% endfor %}

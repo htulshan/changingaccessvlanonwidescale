@@ -1,4 +1,0 @@
-{% for interface in variables %}
- interface {{interface.localint}}
- description {{interface.deviceid}}_{{interface.remoteint}}
-{% endfor %}
