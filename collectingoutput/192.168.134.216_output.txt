@@ -1,6 +1,0 @@
-
-Port      Name               Status       Vlan       Duplex  Speed Type 
-Et0/0                        connected    4            auto   auto unknown
-Et0/1                        connected    5            auto   auto unknown
-Et0/2                        connected    6            auto   auto unknown
-Et0/3                        connected    routed       auto   auto unknown

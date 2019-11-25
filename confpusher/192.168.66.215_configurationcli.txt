@@ -1,7 +1,10 @@
 config term
 Enter configuration commands, one per line.  End with CNTL/Z.
 S15(config)#
-S15(config)# interface Et0/1
+S15(config)# interface Et0/0
+S15(config-if)# switchport access vlan 1
+S15(config-if)#
+S15(config-if)# interface Et0/1
 S15(config-if)# switchport access vlan 1
 S15(config-if)#
 S15(config-if)# interface Et0/2
