@@ -19,11 +19,12 @@ class ConfGen():
 
     def main(self):
 
+        input("Data to generate config will be collected from 'confgendata.csv'")
         data = []
         configsrcdata = []
 
         #filtering data to extract interesting interfaces
-        with open('configdata.csv') as f:
+        with open('confgendata.csv') as f:
             data = list(csv.DictReader(f))
 
         for interface in data:
@@ -51,6 +52,8 @@ class ConfGen():
         for device, configdata in devicedata.items():
             self.generateconfigfiles(device, {'variables':configdata})
 
+        print("Configuration files saved to 'configfiles/'.")
+        input("Script complete, press RETURN to exit")
 
 if __name__ == "__main__":
     test = ConfGen()

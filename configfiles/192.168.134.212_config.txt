@@ -1,6 +1,6 @@
 
  interface Et0/1
- switchport access vlan 2
+ switchport access vlan 1
 
  interface Et0/2
- switchport access vlan 3
+ switchport access vlan 1

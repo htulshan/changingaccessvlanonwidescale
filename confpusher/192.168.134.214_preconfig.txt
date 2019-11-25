@@ -1,6 +1,16 @@
+show interface status
 
 Port      Name               Status       Vlan       Duplex  Speed Type 
 Et0/0                        connected    7            auto   auto unknown
 Et0/1                        connected    8            auto   auto unknown
 Et0/2                        connected    9            auto   auto unknown
 Et0/3                        connected    routed       auto   auto unknown
+S14#show running config
+                  ^
+% Invalid input detected at '^' marker.
+
+S14#show startup config
+                 ^
+% Invalid input detected at '^' marker.
+
+S14#

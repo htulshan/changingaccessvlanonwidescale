@@ -1,4 +1,0 @@
-show interface description
-Interface                      Status         Protocol Description
-Fa0/0                          up             up       S6.htulshan.com_Ethernet1/0
-Fa0/1                          admin down     down     

@@ -62,6 +62,8 @@ class Login():
 		logindata = []
 		loginresult = []
 
+		input("Login data will be collected from 'logindata.csv'. ")
+
 		with open('logindata.csv') as f:
 			logindata = list(csv.DictReader(f))
 
@@ -81,6 +83,7 @@ class Login():
 
 		self.save_output(logindata, loginresult)
 
+		print("Script result stored in 'loginresult.csv'.")
 		input("Script complete, press RETURN to exit")
 
 if __name__ == "__main__":

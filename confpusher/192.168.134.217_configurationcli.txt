@@ -1,0 +1,14 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+S17(config)#
+S17(config)# interface Et0/0
+S17(config-if)# switchport access vlan 1
+S17(config-if)#
+S17(config-if)# interface Et0/1
+S17(config-if)# switchport access vlan 1
+S17(config-if)#
+S17(config-if)# interface Et0/2
+S17(config-if)# switchport access vlan 1
+S17(config-if)#
+S17(config-if)#end
+S17#

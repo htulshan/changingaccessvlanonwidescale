@@ -108,6 +108,9 @@ class GeneratingVaribalefiles():
 
 
     def main(self):
+
+        input("Login data will be collected from 'logindata.csv'. ")
+
         logindata = []
         command = "show interface status"
 
@@ -130,6 +133,8 @@ class GeneratingVaribalefiles():
         filtereddata = self.filter_data(logindata, result)
 
         self.save_output(logindata, result, filtereddata)
+
+        print("Script result stored in 'extractinginterestingdata.csv'.")
 
         input("Script complete, press RETURN to exit")
 

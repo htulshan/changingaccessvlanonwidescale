@@ -1,4 +1,5 @@
 "device_type","ip","login","collectedoutput"
+"cisco_ios","192.168.134.200",False,False
 "cisco_ios","192.168.134.201",True,True
 "cisco_ios","192.168.134.202",True,True
 "cisco_ios","192.168.134.203",True,True
